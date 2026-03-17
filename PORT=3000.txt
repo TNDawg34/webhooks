@@ -1,0 +1,4 @@
+PORT=3000
+NOTION_WEBHOOK_SECRET=your_notion_webhook_secret_from_notion_integration
+OPENCLAW_GATEWAY_URL=http://localhost:YOUR_OPENCLAW_PORT/api/whatever
+# Add other keys as needed
